@@ -91,7 +91,6 @@ Only authenticated users can create pastes.
 - https://gitlab.com/explore/snippets
 - https://codepen.io
 - https://repl.it
-- https://paste.ubuntu.com
 - https://invent.kde.org/explore/snippets
 - https://snipplr.com
 - http://paste.xinu.at
@@ -135,5 +134,6 @@ Dead pastebin services. All pastes are removed.
 - https://dpaste.org
 - https://www.paste4btc.com
 - https://paste.mod.gg
+- https://paste.ubuntu.com
 - https://macrobin.co
 - https://bin.maple.rest
